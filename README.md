@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" alt="renovate-config" height="96"></p>
+
 # renovate-config
 
 Shared Renovate preset. Every managed repo extends this via a stub `renovate.json`:
