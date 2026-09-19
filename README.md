@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" alt="renovate-config" height="96"></p>
+
 <p align="center"><img src="assets/logo.png" alt="renovate-config" height="96"></p>
 
 # renovate-config
